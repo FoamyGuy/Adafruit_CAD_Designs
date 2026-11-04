@@ -10,12 +10,7 @@ A printed frame that holds an [Adafruit Metro ESP32-P4](https://www.adafruit.com
 |---|---|
 | `.3mf` | Ready to slice |
 | `.step` | For any CAD tool |
-| `.FCStd` | FreeCAD, a plain solid |
-| `build_adapter.py` | FreeCAD script that builds the part and checks the clearances. Edit the numbers at the top to remix it |
-
-```
-freecadcmd build_adapter.py -- --out build
-```
+| `.FCStd` | FreeCAD |
 
 ## Print
 
