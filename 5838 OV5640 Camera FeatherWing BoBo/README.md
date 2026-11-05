@@ -20,7 +20,7 @@ A single-sided FeatherWing that holds an [Adafruit OV5640 Camera Breakout](https
 | 1x12 female socket, 2.54 mm | 1 |
 | 1x09 male header, 2.54 mm SMD | 1 |
 | 2x09 male header, 2.54 mm SMD (double row) | 1 |
-| 0805 resistor (R1) | 1 |
+| 0805 0 ohm jumper (R1) | 1 |
 
 Thanks to Jerry Needell for the [reference design and example code](https://github.com/jerryneedell/mycamera).
 

@@ -2,7 +2,7 @@
 
 A printed insert for the [Adafruit Fruit Jam](https://www.adafruit.com/product/6200) that gives each built-in LED its own channel, so light doesn't bleed between them through the cover plate. Designed with [@b-blake](https://github.com/b-blake).
 
-![Turntable render](<6200 Fruit Jam Light Tunnel.gif>)
+![Exploded turntable render](<6200 Fruit Jam Light Tunnel.gif>)
 
 ## Files
 
