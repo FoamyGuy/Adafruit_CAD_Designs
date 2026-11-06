@@ -1,12 +1,10 @@
-# Pico SKADIS Mount
+# Pico 2 W SKADIS Mount
 
-Hangs the [Raspberry Pi Pico 2 W](https://www.adafruit.com/product/6315) edge-on from an IKEA SKADIS pegboard, so a panel holds many more boards than when they lie flat. The board screws to two M2 heat set inserts in the mount.
+Hangs the [Raspberry Pi Pico 2 W](https://www.adafruit.com/product/6315) edge-on from an IKEA SKADIS pegboard. The board screws to two M2 heat set inserts in the mount. Hole positions are checked against the Raspberry Pi Pico 2 STEP model, which has the same outline and holes.
 
 ![Turntable render](<6315 Pico 2 W SKADIS Mount.gif>)
 
-Fits: Raspberry Pi Pico, Pico W, Pico 2 and Pico 2 W. They share the same outline and holes.
-
-Mounted edge: The short edge opposite the USB port, so USB points away from the panel.
+Mounted edge: The short edge opposite USB, so USB points away from the panel.
 
 ## Files
 

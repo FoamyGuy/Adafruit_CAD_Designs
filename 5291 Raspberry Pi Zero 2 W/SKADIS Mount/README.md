@@ -1,12 +1,12 @@
 # Raspberry Pi Zero 2 W SKADIS Mount
 
-Hangs the [Raspberry Pi Zero 2 W](https://www.adafruit.com/product/5291) edge-on from an IKEA SKADIS pegboard, so a panel holds many more boards than when they lie flat. The board screws to two M2 heat set inserts in the mount.
+Hangs the [Raspberry Pi Zero 2 W](https://www.adafruit.com/product/5291) edge-on from an IKEA SKADIS pegboard. The board screws to two M2 heat set inserts in the mount. Hole positions are checked against the Raspberry Pi mechanical drawing and HAT spec.
 
 ![Turntable render](<5291 Raspberry Pi Zero 2 W SKADIS Mount.gif>)
 
-Fits: Raspberry Pi Zero 2 W. The render shows a plain PCB, since there is no official 3D model.
-
 Mounted edge: The camera connector short edge.
+
+PCB thickness and hole size come from the spec, not a model. The render shows a plain PCB.
 
 ## Files
 

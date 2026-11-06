@@ -1,10 +1,8 @@
 # Fruit Jam SKADIS Mount
 
-Hangs the [Adafruit Fruit Jam](https://www.adafruit.com/product/6200) edge-on from an IKEA SKADIS pegboard, so a panel holds many more boards than when they lie flat. The board screws to two M2 heat set inserts in the mount.
+Hangs the [Adafruit Fruit Jam](https://www.adafruit.com/product/6200) edge-on from an IKEA SKADIS pegboard. The board screws to two M2 heat set inserts in the mount. Hole positions are checked against the Adafruit STEP model.
 
 ![Turntable render](<6200 Fruit Jam SKADIS Mount.gif>)
-
-Fits: The Fruit Jam.
 
 Mounted edge: The short edge by the reset button. USB-C, HDMI and microSD point up, the USB-A ports point down and the audio jack points out.
 

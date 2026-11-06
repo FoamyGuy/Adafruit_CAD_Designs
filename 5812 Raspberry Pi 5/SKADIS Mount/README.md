@@ -1,12 +1,10 @@
-# Raspberry Pi 4 and 5 SKADIS Mount
+# Raspberry Pi 5 SKADIS Mount
 
-Hangs the [Raspberry Pi 5](https://www.adafruit.com/product/5812) edge-on from an IKEA SKADIS pegboard, so a panel holds many more boards than when they lie flat. The board screws to two M2 heat set inserts in the mount.
+Hangs the [Raspberry Pi 5](https://www.adafruit.com/product/5812) edge-on from an IKEA SKADIS pegboard. The board screws to two M2 heat set inserts in the mount. Hole positions are checked against the official Raspberry Pi STEP model.
 
-![Turntable render](<5812 Raspberry Pi 4 and 5 SKADIS Mount.gif>)
+![Turntable render](<5812 Raspberry Pi 5 SKADIS Mount.gif>)
 
-Fits: Raspberry Pi 4 Model B and Raspberry Pi 5. Both have the same outline and holes.
-
-Mounted edge: The microSD short edge. USB-C, GPIO, USB/Ethernet and HDMI stay reachable. The microSD card faces the panel.
+Mounted edge: The microSD short edge. USB-C, GPIO, USB, Ethernet and HDMI stay reachable. The microSD card and PCIe connector face the panel.
 
 ## Files
 

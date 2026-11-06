@@ -1,12 +1,10 @@
-# Metro SKADIS Mount
+# Metro RP2350 SKADIS Mount
 
-Hangs the [Adafruit Metro RP2350](https://www.adafruit.com/product/6003) edge-on from an IKEA SKADIS pegboard, so a panel holds many more boards than when they lie flat. The board screws to two M2 heat set inserts in the mount.
+Hangs the [Adafruit Metro RP2350](https://www.adafruit.com/product/6003) edge-on from an IKEA SKADIS pegboard. The board screws to two M2 heat set inserts in the mount. Hole positions are checked against the Adafruit STEP model.
 
-![Turntable render](<6003 Metro SKADIS Mount.gif>)
+![Turntable render](<6003 Metro RP2350 SKADIS Mount.gif>)
 
-Fits: Metro boards with the standard Metro hole pattern, such as the Metro RP2350, RP2040, ESP32-S3 and ESP32-P4.
-
-Mounted edge: The short edge opposite USB and the DC jack.
+Mounted edge: The short edge opposite USB-C and the DC jack, so both point away from the panel.
 
 ## Files
 
